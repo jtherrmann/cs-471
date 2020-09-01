@@ -1,3 +1,13 @@
+/*
+ * Jake Herrmann
+ * CS 471 Fall 2020
+ * Assignment 1
+ * Due 2 Sep 2020
+ *
+ * main.cpp
+ * Unit tests for the Quicksort implementation.
+ */
+
 #define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
 
 #include "doctest.h"

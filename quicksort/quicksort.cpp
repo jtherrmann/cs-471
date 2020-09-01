@@ -1,7 +1,16 @@
+/*
+ * Jake Herrmann
+ * CS 471 Fall 2020
+ * Assignment 1
+ * Due 2 Sep 2020
+ *
+ * quicksort.cpp
+ * Implementation of the Quicksort algorithm:
+ * https://en.wikipedia.org/wiki/Quicksort#Lomuto_partition_scheme
+ */
+
 #include "quicksort.h"
 #include <vector>
-
-// https://en.wikipedia.org/wiki/Quicksort#Lomuto_partition_scheme
 
 
 void quicksort_rec(std::vector<long> &A, long lo, long hi);
